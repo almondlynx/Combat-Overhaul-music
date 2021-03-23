@@ -1,0 +1,11 @@
+﻿{
+  "Name": "Combat Overhaul Music",
+  "Author": "DadNavi",
+  "Version": "1.0.0",
+  "Description": "...",
+  "UniqueID": "DadNavi.CombatOverhaul.Music",
+  "ContentPackFor": {
+    "UniqueID": "Platonymous.CustomMusic",
+    "MinimumVersion": "1.0.0"
+  }
+}

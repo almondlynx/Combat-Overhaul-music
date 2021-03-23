@@ -1,0 +1,16 @@
+﻿{
+	"Music" : [
+	{
+		"Id": "co_inari_sky",
+		"File": "inari_sky.ogg",
+		"Loop": true,
+		"Ambient": false
+	},
+	{
+		"Id": "co_car",
+		"File": "car.ogg",
+		"Loop": false,
+		"Ambient": false
+	}
+	]
+}
