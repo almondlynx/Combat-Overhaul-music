@@ -8,7 +8,13 @@
 	},
 	{
 		"Id": "co_car",
-		"File": "car.ogg",
+		"File": "Engine_Loop_Gear_01.ogg",
+		"Loop": false,
+		"Ambient": false
+	},
+	{
+		"Id": "co_car_honk",
+		"File": "HornHonk.ogg",
 		"Loop": false,
 		"Ambient": false
 	}
